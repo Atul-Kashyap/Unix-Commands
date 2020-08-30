@@ -1,6 +1,6 @@
 # Unix-Commands
 
-1.-**ls**
+1.**ls**
 
 ls --- lists your files.
 
