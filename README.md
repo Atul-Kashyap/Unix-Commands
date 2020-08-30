@@ -1,6 +1,7 @@
 # Unix-Commands
 
--**1.ls**
+1.-**ls**
+
 ls --- lists your files.
 
 ls -l --- lists your files in 'long format', which contains lots of useful information, e.g. the exact size of the file, who owns the file and who has the right to    look at it, and when it was last modified.
